@@ -215,8 +215,8 @@ RCT_ENUM_CONVERTER(CKCameraZoomMode, (@{
         
         self.frameColor = [UIColor whiteColor];
         self.laserColor = [UIColor redColor];
-        self.frameOffset = 30;
-        self.frameHeight = 200;
+        self.frameOffset = 60;
+        self.frameHeight = 300;
     }
 
     return self;
