@@ -1,12 +1,12 @@
 {
-  "name": "react-native-camera-kit",
+  "name": "@jafri/react-native-camera-kit",
   "repository": {
     "type": "git"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
-  "version": "11.2.0",
+  "version": "11.2.0-1",
   "description": "A high performance, fully featured, rock solid camera library for React Native applications",
   "nativePackage": true,
   "react-native": "src/index",
